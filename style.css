@@ -3,3 +3,25 @@ body {
 	background: red;
 	
 }
+
+a {
+    text-decoration: none;
+    color: floralwhite;
+    text-align: right;
+}
+
+#myfooter{
+    background-color:darkslategray;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 0px 10px 0px;
+}
+
+#reserve{
+    color:white;
+    text-align: center;
+}
+
+a:hover{
+    color: darkorange;
+    
+}

@@ -1,7 +1,15 @@
 body {
-	
+
 	background: red;
-	
+}
+main {
+
+	background-color: #c9c9c9;
+	height:800px;
+	width: 600px;
+	margin: 15px;
+	padding: 15px;
+
 }
 
 a {
